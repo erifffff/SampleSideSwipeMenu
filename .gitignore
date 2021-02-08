@@ -104,5 +104,5 @@ iOSInjectionProject/
 # End of https://www.gitignore.io/api/swift,xcode
 
 # CocoaPods
-Pods/*
-Podfile.lock
+# Pods/*
+# Podfile.lock

@@ -1,0 +1,6 @@
+framework module Pods_SampleSideSwipeMenu {
+  umbrella header "Pods-SampleSideSwipeMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
